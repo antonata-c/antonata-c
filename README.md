@@ -2,7 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/antonata-c/badges/small)](https://www.codewars.com/users/antonata-c)  
 
-### Information:
+### Some information about me:
 - 🧑‍💻 I'm a student at **St. Petersburg State University of Telecommunications**
 
 - 🌱 I’m currently learning **Python, Backend**
