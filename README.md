@@ -2,18 +2,18 @@
 
 [![codewars](https://www.codewars.com/users/antonata-c/badges/small)](https://www.codewars.com/users/antonata-c)  
 
-### Some information about me:
-- 🧑‍💻 I'm a student at **St. Petersburg State University of Telecommunications**
+### About Me
+- 🧑‍💻 I am a dedicated student at **St. Petersburg State University of Telecommunications**, currently diving deep into the world of backend development.
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 My focus is on creating backend solutions, with most of my recent projects being hosted on GitLab. Please note that my GitHub profile features primarily older educational projects.
 
-- 📫 How to reach me:
-  - Email: **anton_ata@mail.ru**
+- 📫 Feel free to reach out to me:
+  - Email: anton_ata@mail.ru
   - Telegram: @antonzemtsov9
 
-- 🌍 I speak **Russian (native), English (B2)**
+- 🌍 I am fluent in Russian and proficient in English (B2).
 
-- 💼 I'm currently working at ProninTeam
+- 💼 I am currently contributing my skills and knowledge as part of the team at ProninTeam.
 
 ### Contacts:
 <p align="left">
