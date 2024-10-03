@@ -5,14 +5,15 @@
 ### Some information about me:
 - 🧑‍💻 I'm a student at **St. Petersburg State University of Telecommunications**
 
-- 🌱 I’m currently learning **Python, Backend**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me:
   - Email: **anton_ata@mail.ru**
+  - Telegram: @antonzemtsov9
 
 - 🌍 I speak **Russian (native), English (B2)**
 
-- 💼 I'm currently looking for **job** and **cooperation**
+- 💼 I'm currently working at ProninTeam
 
 ### Contacts:
 <p align="left">
