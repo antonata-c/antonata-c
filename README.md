@@ -13,7 +13,7 @@
 
 - 🌍 I am fluent in Russian and proficient in English (B2).
 
-- 💼 I am currently contributing my skills and knowledge as part of the team at ProninTeam.
+- 💼 I am currently contributing my skills and knowledge as part of the team at Selectel.
 
 ### Contacts:
 <p align="left">
