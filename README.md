@@ -6,8 +6,8 @@
 - 🌱 My focus is on creating backend solutions, with most of my recent projects being hosted on GitLab. Please note that my GitHub profile features primarily older educational projects.
 
 - 📫 Feel free to reach out to me:
-  - Email: anton_ata@mail.ru
-  - Telegram: @antonzemtsov9
+  - Email: antonzemtsov9@mail.ru
+  - Telegram: @antonzemtsov_work
 
 - 🌍 I am fluent in Russian and proficient in English (B2).
 
